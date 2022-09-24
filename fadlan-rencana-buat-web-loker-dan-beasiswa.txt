@@ -1,0 +1,6 @@
+RENCANA WEB LOKER DAN BEASISWA
+1. Buat Ui/Ux
+2. negoding dari html,css dan javascript
+3. mengunakan framewok diantara bostrap,laravel, dan react
+3. buat backend 
+4. Buat API
